@@ -7,7 +7,7 @@ My main area of ​​interest is Data Science for structured and unstructured d
 
 I really enjoy developing applications in Rust, because, as it is a low-level language, it allows the implementation of custom algorithms and the creation of metaheuristic applications efficiently. In addition, it is possible to integrate Rust programs with Python, thus combining the best of both worlds.
 
-## 🤖 Tech Stack:
+## 🛠️ Languages and Tools:
 <div style="display> inlineblock"><br>
   <img align="center" alt="Rafa-Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"> 
@@ -16,10 +16,10 @@ I really enjoy developing applications in Rust, because, as it is a low-level la
   <img align="center" alt="Rafa-Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
 </div>
 
-##
+## 🚀 GitHub Stats
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelsoz&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsoz&layout=compact&theme=dracula" alt="Top Langs" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelsoz&show_icons=true&theme=dark" alt="Anurag's GitHub stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsoz&layout=compact&theme=dark" alt="Top Langs" />
 </div>
 
 ## 
