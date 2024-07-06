@@ -8,12 +8,77 @@ My main area of ​​interest is Data Science for structured and unstructured d
 I really enjoy developing applications in Rust, because, as it is a low-level language, it allows the implementation of custom algorithms and the creation of metaheuristic applications efficiently. In addition, it is possible to integrate Rust programs with Python, thus combining the best of both worlds.
 
 ## 🛠️ Languages and Tools:
-<div style="display> inlineblock"><br>
-  <img align="center" alt="Rafa-Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"> 
-  <img align="center" alt="Rafa-Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg">          
-  <img align="center" alt="Rafa-Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg">
-  <img align="center" alt="Rafa-Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img align="center" alt="Jupyter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"> 
+        <br>Jupyter
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/?size=100&id=XWesbnSd4AUa&format=png&color=FFFFFF" width="50" height="50" alt="Rust" />
+        <br>Rust
+      </td>
+      <td align="center" width="96">
+          <img align="center" alt="PyTorch" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg">
+        <br>PyTorch
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" width="50" height="50" alt="Numpy" />
+        <br>Numpy
+      </td>
+      <td align="center" width="96">
+        <img align="center" alt="Scikitlearn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
+        <br>Scikitlearn
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" width="50" height="50" alt="SciPy" />
+        <br>SciPy
+      </td>
+       <td align="center" width="96">
+        <img src="https://github.com/statsmodels/statsmodels/blob/main/docs/source/images/statsmodels-favicon-base.svg" width="45" height="45" alt="Statsmodels" />
+        <br>Statsmodels
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" width="50" height="50" alt="Pandas" />
+        <br>Pandas
+      </td>
+      <td align="center" width="96">
+        <img src="https://github.com/Rafaelsoz/Rafaelsoz/assets/89589108/bfece153-c09c-45e0-b2c8-645eefb0acc0" width="50" height="50" alt="PostgresSQL" />
+        <br>PostgresSQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="Github" />
+        <br>Github
+      </td>
+      <td align="center" width="96">
+        <img src="https://github.com/Rafaelsoz/Rafaelsoz/assets/89589108/1dad3cfb-2e1d-4bbe-b068-c1c5f9284c49" width="45" height="45" alt="VsCode" />
+        <br>VsCode
+      </td>
+      <td align="center" width="96">
+        <img src="https://github.com/Rafaelsoz/Rafaelsoz/assets/89589108/9b30e4fe-7def-4a00-bf7d-496416785ca2" width="45" height="45" alt="PyCharm" />
+        <br>PyCharm
+      </td>
+      <td align="center" width="96">
+        <img src="https://github.com/Rafaelsoz/Rafaelsoz/assets/89589108/59f9e977-bfe7-4532-bf82-327a8b24fac9" width="50" height="50" alt="CSS" />
+        <br>Matplotlib
+      </td>
+      <td align="center" width="96">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" height="60" alt="Bootstrap" />
+        <br>Seaborn
+      </td>
+      <td align="center" width="96">
+        <img src="https://github.com/Rafaelsoz/Rafaelsoz/assets/89589108/87411073-0d75-4e39-81ce-669ca246d8e3" width="45" height="45" alt="Ploty" />
+        <br>Ploty
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🚀 GitHub Stats
