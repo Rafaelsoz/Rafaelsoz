@@ -1,11 +1,13 @@
-# Hi, I'm Rafael Soz - Data Scientist, Statistician and I like to play with Rust to develop applications!
+# Hi, I'm Rafael Soz – Data Scientist passionate about Computer Vision
 
 ## 🔎 About Me:
-I am a Data Science student at the University of São Paulo. During my academic journey, I have had contact with several programming languages, such as C, Java, Rust and, mainly, Python. In addition, I have explored different areas of statistics, including Classical, Bayesian and Nonparametric statistics.
+I am a Data Science student at the University of São Paulo, dedicated to solving problems through artificial intelligence. Throughout my academic journey, I have worked with multiple programming languages, including C, Java, Rust, and especially Python.
 
-My main area of ​​interest is Data Science for structured and unstructured data, in which I use the Python language and its libraries, such as PyTirch, Sklearn, SciPy, among others.
+I have also explored various statistical approaches, including Classical, Bayesian, and Nonparametric statistics.
 
-I really enjoy developing applications in Rust, because, as it is a low-level language, it allows the implementation of custom algorithms and the creation of metaheuristic applications efficiently. In addition, it is possible to integrate Rust programs with Python, thus combining the best of both worlds.
+My main interests lie in Data Science for both structured and unstructured data, with a particular focus on computer vision. I leverage Python and its powerful libraries—such as PyTorch, Scikit-Learn, and SciPy—to tackle complex challenges.
+
+Currently, I am researching the reliability of deep learning models, striving to make AI systems more robust and trustworthy.
 
 ## 🛠️ Languages and Tools:
 <div align="center">
