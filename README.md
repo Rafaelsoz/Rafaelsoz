@@ -5,9 +5,9 @@ I am a Data Science student at the University of São Paulo, dedicated to solvin
 
 I have also explored various statistical approaches, including Classical, Bayesian, and Nonparametric statistics.
 
-My main interests lie in Data Science for both structured and unstructured data, with a particular focus on computer vision. I leverage Python and its powerful libraries—such as PyTorch, Scikit-Learn, and SciPy—to tackle complex challenges.
+My main interests lie in Data Science for both structured and unstructured data, with a particular interest in computer vision. I leverage Python and its powerful libraries, such as PyTorch, Scikit-Learn, NumPy, SciPy, and Pandas, to tackle complex challenges.
 
-Currently, I am researching the reliability of deep learning models, striving to make AI systems more robust and trustworthy.
+Currently conducting research on the reliability of deep learning models, funded by FAPESP, with the goal of making AI systems more robust and trustworthy.
 
 ## 🛠️ Languages and Tools:
 <div align="center">
