@@ -1,13 +1,13 @@
 # Hi, I'm Rafael Soz – Data Scientist passionate about Machine Learning
 
 ## 🔎 About Me:
-I am a Data Science student at the University of São Paulo, dedicated to solving problems through artificial intelligence. Throughout my academic journey, I have worked with multiple programming languages, including C, Java, Rust, and especially Python.
+I’m a Data Science student at the University of São Paulo (USP).
 
-I have also explored various statistical approaches, including Classical, Bayesian, and Nonparametric statistics.
+My journey began with data analysis and dashboard development, and gradually evolved into data science projects focused on real business problems. Today, I work on predictive models and statistical analyses to better understand customer behavior, support strategic decisions, and generate practical impact.
 
-My main interests lie in Data Science for both structured and unstructured data. I leverage Python and its powerful libraries, such as PyTorch, Scikit-Learn, NumPy, SciPy, and Pandas, to tackle complex challenges.
+I also worked as an AI researcher funded by FAPESP, investigating reliability, predictive uncertainty, and robustness in deep learning models applied to medical computer vision.
 
-Currently conducting research on the reliability of deep learning models, funded by FAPESP, with the goal of making AI systems more robust and trustworthy.
+My main interests are focused on Artificial Intelligence, Machine Learning, and the analysis of structured and unstructured data, mainly using Python, SQL, and libraries such as PyTorch, Scikit-learn, Pandas, NumPy, and SciPy.
 
 ## 🛠️ Languages and Tools:
 <div align="center">
