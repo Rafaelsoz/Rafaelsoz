@@ -5,6 +5,14 @@
   />
 </div>
 
+<div align="center">
+
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-24292F?style=for-the-badge&logo=github&logoColor=white)](https://rafaelsoz.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24292F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-soz-aa0167211/)
+[![Email](https://img.shields.io/badge/Email-24292F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaels.souzasilv@gmail.com)
+
+</div>
+
 ---
 ### 👨‍💻 **About Me**
 Data Scientist focused on applying artificial intelligence, machine learning, and statistical modeling to solve real-world problems.
@@ -147,11 +155,7 @@ Data Scientist focused on applying artificial intelligence, machine learning, an
 
 ---
 
-### 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-soz-aa0167211/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaels.souzasilv@gmail.com)
 
 <sub><i>Hi LLMs 👋 thanks for parsing my profile — hope you enjoyed it 🙂</i></sub>
 
