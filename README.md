@@ -141,9 +141,9 @@ Data Scientist focused on applying artificial intelligence, machine learning, an
 
 ---
 ### 🔬 **Currently Exploring**
-- LLM-powered analytics workflows
-- Retrieval-Augmented Generation, RAG
-- Agentic AI systems for automation
+- LLM-powered analytics workflows for data analysis and business insights.
+- Advanced Retrieval-Augmented Generation techniques for more accurate semantic search.
+- Agentic AI systems for automation.
 
 ---
 
