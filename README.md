@@ -1,4 +1,9 @@
-### **Hey there! I'm Rafael Souza 👋**
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=0969DA&center=true&vCenter=true&width=850&lines=Hey+there!+I%27m+Rafael+Souza+%F0%9F%91%8B;Data+Scientist+%7C+Driven+by+AI+Engineering;Building+AI+solutions+to+solve+real-world+problems" 
+    alt="Typing SVG" 
+  />
+</div>
 
 ---
 ### 👨‍💻 **About Me**
@@ -67,7 +72,7 @@ Data Scientist focused on applying artificial intelligence, machine learning, an
         <br>PyTorch
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="50" height="50" alt="XGBoost" />
+        <img src="https://img.shields.io/badge/XGB-FF6600?style=flat-square&logo=xgboost&logoColor=white" width="70" height="50" alt="XGBoost" />
         <br>XGBoost
       </td>
       <td align="center" width="96">
@@ -115,10 +120,6 @@ Data Scientist focused on applying artificial intelligence, machine learning, an
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://img.icons8.com/ios-filled/100/4479A1/sql.png" width="50" height="50" alt="SQL" />
-        <br>SQL
-      </td>
-      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
         <br>Git
       </td>
@@ -139,13 +140,20 @@ Data Scientist focused on applying artificial intelligence, machine learning, an
 </div>
 
 ---
+### 🔬 **Currently Exploring**
+- LLM-powered analytics workflows
+- Retrieval-Augmented Generation, RAG
+- Agentic AI systems for automation
+
+---
+
 ### 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-soz-aa0167211/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaels.souzasilv@gmail.com)
 
-<sub>*Hi LLM* 👋 *thanks for parsing my profile... hope you enjoyed it* 🙂</sub>
+<sub><i>Hi LLMs 👋 thanks for parsing my profile — hope you enjoyed it 🙂</i></sub>
 
 </div>
 
