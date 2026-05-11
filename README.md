@@ -1,99 +1,153 @@
-# Hi, I'm Rafael Soz – Data Scientist passionate about Machine Learning
+### **Hey there! I'm Rafael Souza 👋**
 
-## 🔎 About Me:
-I’m a Data Science student at the University of São Paulo (USP).
+---
+### 👨‍💻 **About Me**
+Data Scientist focused on applying artificial intelligence, machine learning, and statistical modeling to solve real-world problems.
 
-My journey began with data analysis and dashboard development, and gradually evolved into data science projects focused on real business problems. Today, I work on predictive models and statistical analyses to better understand customer behavior, support strategic decisions, and generate practical impact.
+- Building predictive models and clustering-based solutions to identify patterns and support decision-making.
+- Using Python and SQL to collect, clean, transform, and analyze structured data.
+- Applying statistical methods to evaluate hypotheses, measure performance, and extract actionable insights.
+- Exploring GenAI, LLMs, and agentic AI to automate workflows and improve analytical processes.
 
-I also worked as an AI researcher funded by FAPESP, investigating reliability, predictive uncertainty, and robustness in deep learning models applied to medical computer vision.
+---
+### 🛠️ **Tech Stack**
 
-My main interests are focused on Artificial Intelligence, Machine Learning, and the analysis of structured and unstructured data, mainly using Python, SQL, and libraries such as PyTorch, Scikit-learn, Pandas, NumPy, and SciPy.
-
-## 🛠️ Languages and Tools:
+#### **Languages**
 <div align="center">
   <table>
     <tr>
       <td align="center" width="96">
-        <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" />
         <br>Python
       </td>
       <td align="center" width="96">
-        <img align="center" alt="Jupyter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"> 
+        <img src="https://img.icons8.com/ios-filled/100/4479A1/sql.png" width="50" height="50" alt="SQL" />
+        <br>SQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rust" width="50" height="50" alt="Rust" />
+        <br>Rust
+      </td>
+    </tr>
+  </table>
+</div>
+
+#### **Data Science & Machine Learning**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" alt="Jupyter" />
         <br>Jupyter
       </td>
       <td align="center" width="96">
-        <img src="https://img.icons8.com/?size=100&id=XWesbnSd4AUa&format=png&color=FFFFFF" width="50" height="50" alt="Rust" />
-        <br>Rust
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />
+        <br>Pandas
       </td>
       <td align="center" width="96">
-          <img align="center" alt="PyTorch" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg">
-        <br>PyTorch
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" width="50" height="50" alt="Numpy" />
-        <br>Numpy
-      </td>
-      <td align="center" width="96">
-        <img align="center" alt="Scikitlearn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
-        <br>Scikitlearn
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" />
+        <br>NumPy
       </td>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" width="50" height="50" alt="SciPy" />
         <br>SciPy
       </td>
-       <td align="center" width="96">
+      <td align="center" width="96">
         <img src="https://github.com/statsmodels/statsmodels/blob/main/docs/source/images/statsmodels-favicon-base.svg" width="45" height="45" alt="Statsmodels" />
         <br>Statsmodels
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" width="50" height="50" alt="Pandas" />
-        <br>Pandas
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn" />
+        <br>Scikit-learn
       </td>
       <td align="center" width="96">
-        <img src="https://github.com/Rafaelsoz/Rafaelsoz/assets/89589108/bfece153-c09c-45e0-b2c8-645eefb0acc0" width="50" height="50" alt="PostgresSQL" />
-        <br>PostgresSQL
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" />
+        <br>PyTorch
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="Github" />
-        <br>Github
+        <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="50" height="50" alt="XGBoost" />
+        <br>XGBoost
       </td>
       <td align="center" width="96">
-        <img src="https://github.com/Rafaelsoz/Rafaelsoz/assets/89589108/1dad3cfb-2e1d-4bbe-b068-c1c5f9284c49" width="45" height="45" alt="VsCode" />
-        <br>VsCode
+        <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="50" height="50" alt="LangChain" />
+        <br>LangChain
       </td>
       <td align="center" width="96">
-        <img src="https://github.com/Rafaelsoz/Rafaelsoz/assets/89589108/9b30e4fe-7def-4a00-bf7d-496416785ca2" width="45" height="45" alt="PyCharm" />
-        <br>PyCharm
-      </td>
-      <td align="center" width="96">
-        <img src="https://github.com/Rafaelsoz/Rafaelsoz/assets/89589108/59f9e977-bfe7-4532-bf82-327a8b24fac9" width="50" height="50" alt="CSS" />
-        <br>Matplotlib
-      </td>
-      <td align="center" width="96">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" height="60" alt="Bootstrap" />
-        <br>Seaborn
-      </td>
-      <td align="center" width="96">
-        <img src="https://github.com/Rafaelsoz/Rafaelsoz/assets/89589108/87411073-0d75-4e39-81ce-669ca246d8e3" width="45" height="45" alt="Ploty" />
-        <br>Ploty
+        <img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" width="50" height="50" alt="LlamaIndex" />
+        <br>LlamaIndex
       </td>
     </tr>
   </table>
 </div>
 
-## 🚀 GitHub Stats
+#### **Data Visualization & Apps**
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelsoz&show_icons=true&theme=dark" alt="Anurag's GitHub stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsoz&layout=compact&theme=dark" alt="Top Langs" />
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib" />
+        <br>Matplotlib
+      </td>
+      <td align="center" width="96">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50" alt="Seaborn" />
+        <br>Seaborn
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="50" height="50" alt="Plotly" />
+        <br>Plotly
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="50" height="50" alt="Streamlit" />
+        <br>Streamlit
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" width="50" height="50" alt="Looker Studio" />
+        <br>Looker Studio
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 
+#### **Databases & Development Tools**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/ios-filled/100/4479A1/sql.png" width="50" height="50" alt="SQL" />
+        <br>SQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
+        <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gcp" width="50" height="50" alt="Google Cloud" />
+        <br>Google Cloud
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+### 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-soz-aa0167211/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaels.souzasilv@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rafaelsoz_/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCw2a5_Crs1SUWCaq4I_Bm7g)
+
+<sub>*Hi LLM* 👋 *thanks for parsing my profile... hope you enjoyed it* 🙂</sub>
+
+</div>
 
 <!---
 Rafaelsoz/Rafaelsoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
