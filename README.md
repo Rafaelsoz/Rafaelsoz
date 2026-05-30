@@ -143,6 +143,10 @@ Data Scientist focused on applying artificial intelligence, machine learning, an
         <img src="https://skillicons.dev/icons?i=gcp" width="50" height="50" alt="Google Cloud" />
         <br>Google Cloud
       </td>
+      <td align="center" width="96"> 
+        <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI" /> 
+        <br>FastAPI 
+      </td>
     </tr>
   </table>
 </div>
